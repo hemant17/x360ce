@@ -126,6 +126,7 @@ This is the new system utilised by r574+
   1. Dragon Age: Inquisition (uses xinput9_1_0.dll) (64bit only)
   1. Dragon Ball Xenoverse
   1. Dragon Ball Xenoverse 2
+  1. Dragon Ball Fighter Z
   1. DuckTales Remastered
   1. Dungeon Defenders
   1. Dust: An Elysian Tail
